@@ -1,0 +1,9 @@
+{
+    "name": "positiondev/hookpress",
+    "description": "WordPress plugin that enables you to add actions to core hooks.",
+    "type": "wordpress-plugin",
+    "require": {},
+    "require-dev": {
+        "rector/rector": "^0.4.9"
+    }
+}
